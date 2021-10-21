@@ -17,3 +17,12 @@ As for our expectations for the model’s performance, we hypothesize that our m
 
 #### Dataset Description: [Human Connectome Project Reference Manual](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQuNG1psXzAhUKAcAKHRk3CE4QFnoECAkQAQ&url=https%3A%2F%2Fwww.humanconnectome.org%2Fstorage%2Fapp%2Fmedia%2Fdocumentation%2Fs1200%2FHCP_S1200_Release_Reference_Manual.pdf&usg=AOvVaw21GMrvh_Ri0whYIlc6qMPK)
 #### References: *[Barch, Deanna M., et al. “Function in the human connectome: task-fMRI and individual differences in behavior.” Neuroimage 80 (2013): 169-189.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011498/)*
+
+
+<p align="center">
+  <img width="300" height="300" src="https://cdn5.vectorstock.com/i/thumb-large/00/79/brain-logo-silhouette-design-template-line-art-vector-29510079.jpg">
+</p>
+
+<p align="center">
+<a href="https://www.vectorstock.com/royalty-free-vector/brain-logo-silhouette-design-template-line-art-vector-29510079">Vector image by VectorStock / LuckyCreative</a>
+</p>
