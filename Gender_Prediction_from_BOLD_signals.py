@@ -7,8 +7,8 @@
 # Date created: 25/07/2021
 # Date last modified: 25/10/2021
 # Python Version: 3.9
-#Project: Predicting gender from task-based BOLD signal using logistic regression
-#Dataset: The HCP/NMA-curated dataset comprises task-based fMRI from a sample of 339 human subjects
+# Project: Predicting gender from task-based BOLD signal using logistic regression
+# Dataset: The HCP/NMA-curated dataset comprises task-based fMRI from a sample of 339 human subjects
 
 # import libraries
 import os
